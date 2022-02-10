@@ -59,11 +59,10 @@ a {
 }
 main {
   /* border: 1px solid; */
-  margin-top: 15px;
+  margin: 15px 5px 0px 5px;
   height: auto;
   display: flex;
   box-sizing: border-box;
-
   /* justify-content: space-between; */
 }
 div.head-left {
@@ -115,7 +114,7 @@ div.head-center {
   border-radius: 10px 10px 0px 0px;
   width: 95%;
   height: 100%;
-  /* margin: 0px; */
+  margin: 0px 10px;
   /* padding: 0px; */
 }
 div.head-right {
