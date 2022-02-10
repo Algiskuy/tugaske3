@@ -189,6 +189,9 @@ div.profil-img {
   margin-top: 0px;
   background-color: white;
 }
+.judul-satu {
+  background-color: white;
+}
 .coment-satu {
   display: flex;
   /* border: 2px solid; */
