@@ -42,6 +42,8 @@ ul {
   display: flex;
   margin-bottom: 10px;
   margin: 0px;
+  display: flex;
+  justify-content: space-evenly;
 }
 ul li.kiri {
   text-align: center;
@@ -291,6 +293,10 @@ div.head-center {
   height: 100%;
   margin: 0px 10px;
   /* padding: 0px; */
+}
+.menu {
+  font-size: 20px;
+  margin: 0px 20px 0px 0px;
 }
 div.head-right {
   /* border: 1px solid; */
