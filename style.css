@@ -462,7 +462,7 @@ div.profile {
   background-color: white;
 }
 div.profil-img {
-  background-image: url(Algis.jpeg);
+  background-image: url(/foto/Algis.jpeg);
   background-position: center;
   background-size: cover;
   /* border: 1px solid black; */
